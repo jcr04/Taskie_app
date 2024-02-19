@@ -27,7 +27,6 @@ class Splashscreen extends StatelessWidget {
             ),
           ),
           SingleChildScrollView(
-            // Permite a rolagem da tela
             child: Column(
               children: <Widget>[
                 SizedBox(height: screenHeight * 0.2), // Espaço superior
